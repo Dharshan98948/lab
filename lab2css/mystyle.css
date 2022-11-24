@@ -1,0 +1,20 @@
+	div{
+padding-top: 20px;
+margin-top: 7%;
+margin-left: 23%;
+  width: 45%;
+  border: 3px ;
+  padding: 50px;
+ border-style: none;
+ border-radius: 8px;
+ box-shadow: 10px 20px 20px 20px whitesmoke;
+}
+
+a{
+	text-decoration: none;
+	color: gray;
+}
+h4{
+	font-weight: normal;
+}
+ 
