@@ -1,0 +1,49 @@
+body{
+	padding: 50px;    
+
+}
+h1{
+	font-family: cursive;
+	color: purple;
+}
+
+#baground{
+	color: black;
+	background-color: lightblue;
+	border-radius: 8px;
+	margin-left: 35%;
+	margin-right: 35%;
+	box-shadow: 20px 40px 40px 20px lightgray;
+
+}
+
+header, form{
+	text-align: center;
+	margin-bottom: 35px;
+}
+input{
+	margin: 20px;
+	padding: 5px;
+	border: 2px  solid purple;
+	border-radius: 6px;
+}
+#operator{
+	padding: 5px;
+	border: 2px  solid purple;
+	border-radius: 6px;
+}
+#calculation{
+	margin: 2px auto;
+    display: block;
+    border: 2px  solid purple;
+	border-radius: 6px;
+
+}
+#res{
+	display: block;
+	font-family: cursive;
+	color: purple;
+	text-align: center;
+	line-height: 150%;
+	font-size: 30px;
+}
